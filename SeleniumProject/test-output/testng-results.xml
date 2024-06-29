@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-29T13:43:37 IST" name="Suite" finished-at="2024-06-29T13:43:37 IST" duration-ms="64">
+    <groups>
+    </groups>
+    <test started-at="2024-06-29T13:43:37 IST" name="Test" finished-at="2024-06-29T13:43:37 IST" duration-ms="64">
+      <class name="pack3.CreateEmailTest">
+        <test-method signature="createEmail()[pri:0, instance:pack3.CreateEmailTest@408d971b]" started-at="2024-06-29T13:43:37 IST" name="createEmail" finished-at="2024-06-29T13:43:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmail -->
+        <test-method signature="modifyEmail()[pri:0, instance:pack3.CreateEmailTest@408d971b]" started-at="2024-06-29T13:43:37 IST" name="modifyEmail" finished-at="2024-06-29T13:43:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyEmail -->
+      </class> <!-- pack3.CreateEmailTest -->
+      <class name="pac1.ContactTest1">
+        <test-method signature="createcontactTest()[pri:0, instance:pac1.ContactTest1@5bf0d49]" started-at="2024-06-29T13:43:37 IST" name="createcontactTest" finished-at="2024-06-29T13:43:37 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcontactTest -->
+        <test-method signature="modifycontactTest()[pri:0, instance:pac1.ContactTest1@5bf0d49]" started-at="2024-06-29T13:43:37 IST" name="modifycontactTest" finished-at="2024-06-29T13:43:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifycontactTest -->
+      </class> <!-- pac1.ContactTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
